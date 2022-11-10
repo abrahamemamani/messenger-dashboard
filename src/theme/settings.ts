@@ -30,7 +30,6 @@ const theme = {
 		white: '#fff',
 		transparent: 'transparent',
 		main: '#17191A',
-		// light: '#FFFFFF',
 		red: {
 			default: '#F23817',
 			dark: '#6E1C18',
