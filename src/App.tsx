@@ -1,11 +1,9 @@
-import { useState } from 'react'
-import { Message } from '@components/index'
-import { MessengerView } from '@views/MessengerView'
+import { MessengerView } from "@views/index";
 
 function App() {
   return (
     <div className="app">
-      {/* <MessengerView /> */}
+      <MessengerView />
     </div>
   );
 }
